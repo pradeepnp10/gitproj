@@ -1,1 +1,4 @@
-print(hello world)
+name = "pradeep"
+print("hello world")
+print(name)
+
