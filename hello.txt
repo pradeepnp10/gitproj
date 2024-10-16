@@ -1,1 +1,1 @@
-Hello git I'm learning git
+Hello Bash and git
